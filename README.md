@@ -2,7 +2,7 @@
 
 This is a Google [Chrome](https://www.google.com/intl/en/chrome/browser/) app for [cloudup.com](http://cloudup.com/dashboard)
 
-## What we do
+## What is it
 
 [Cloudup](https://cloudup.com/dashboard) set out with one goal in mind: to make sharing anything – files, videos, links, music, documents, code, text, etc – simple and beautiful for both the sharer and the recipient. Drag, drop, and stream.
 
