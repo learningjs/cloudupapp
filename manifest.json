@@ -1,0 +1,18 @@
+{
+   "app": {
+      "launch": {
+         "container": "tab",
+         "web_url": "https://cloudup.com/dashboard/#"
+      }
+   },
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "icons": {
+      "128": "icons/cloudup-marker.png",
+      "16": "icons/cloudup-marker.png"
+   },
+   "name": "__MSG_appName__",
+   "manifest_version": 2,
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1.0.0"
+}
